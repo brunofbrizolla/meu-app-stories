@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#story-input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#add-story-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+#story-list {
+    margin-top: 20px;
+}
+
+.story {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
